@@ -39,6 +39,7 @@ h1 {
 #recipes li{
     font-size: 30px;
     color: whitesmoke;
+    margin: 10px;
 }
 a{
     color:whitesmoke;
