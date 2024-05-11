@@ -58,6 +58,10 @@ ul {
     background-color:#03045e;
     text-align: center;
 }
+
+li::marker {
+    color: rgb(0,0,0);
+}
 a{
     color:whitesmoke;
 }
