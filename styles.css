@@ -8,13 +8,51 @@ super light blue: #caf0f8
 
 */
 
-
-
-
-div {
+#header {
     width: 80%;
-    background-color: #03045E;
+    max-width: 500px;
+    padding: 20px;
     margin-left: auto;
     margin-right: auto;
+    background-color: #03045E;
+    font-weight: bolder;
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+#recipes {
     
+    width: 60%;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: auto;
+    padding: 20px;
+    background-color: #03045E;
+}
+
+#recipes li{
+    font-size: 30px;
+    color: whitesmoke;
+}
+a{
+    color:whitesmoke;
+}
+
+ul {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: 50px;
+}
+
+hr {
+    width: 80%;
+    max-width: 480px;
+    height: 5px;
+    background-color: #0077b6 ;
 }
