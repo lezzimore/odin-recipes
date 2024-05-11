@@ -55,8 +55,9 @@ a{
 ul {
     /* margin-top: auto;
     margin-bottom: auto; */
-    /* margin-right: auto;
-    margin-left: 50px; */
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
     background-color: #03045e;
     padding: 20px;
 }
