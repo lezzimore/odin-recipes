@@ -24,7 +24,7 @@ h1 {
     font-size: 60px;
 }
 
-#recipes {
+/* #recipes {
     
     width: 60%;
     max-width: 300px;
@@ -34,7 +34,7 @@ h1 {
     margin-bottom: auto;
     padding: 20px;
     background-color: #03045E;
-}
+} */
 
 #recipes li{
     font-size: 30px;
