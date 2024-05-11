@@ -2,11 +2,12 @@ div {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
+    background-color: antiquewhite;
 }
 
 #heading {
-    background-color: #03045e;
-    color: whitesmoke;  
+    background-color: aliceblue;
+    color: black;  
     width: 20%;
     margin-left: auto;
     margin-right: auto;
@@ -22,4 +23,9 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+#info {
+    background-color: aliceblue;
+
 }
