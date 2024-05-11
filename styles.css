@@ -36,6 +36,16 @@ h1 {
     background-color: #03045E;
 } */
 
+ul {
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+    /* background-color: #03045e; */
+    padding: 20px;
+}
+
 #recipes li{
     font-size: 30px;
     color: whitesmoke;
@@ -51,17 +61,6 @@ h1 {
 a{
     color:whitesmoke;
 }
-
-ul {
-    /* margin-top: auto;
-    margin-bottom: auto; */
-    margin-right: auto;
-    margin-left: auto;
-    width: 20%;
-    /* background-color: #03045e; */
-    padding: 20px;
-}
-
 hr {
     width: 80%;
     max-width: 480px;
