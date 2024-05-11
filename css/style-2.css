@@ -5,6 +5,11 @@ div {
     background-color: antiquewhite;
 }
 
+#background {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 #heading {
     background-color: aliceblue;
     color: black;  
