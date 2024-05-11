@@ -1,13 +1,3 @@
-/* Some colors:
-
-very dark blue: #03045e
-indigo blue: #0077b6
-cyanic blue: #00b4d8
-light blue: #90e0ef
-super light blue: #caf0f8
-
-*/
-
 #header {
     width: 80%;
     max-width: 500px;
@@ -24,25 +14,10 @@ h1 {
     font-size: 60px;
 }
 
-/* #recipes {
-    
-    width: 60%;
-    max-width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: auto;
-    padding: 20px;
-    background-color: #03045E;
-} */
-
 ul {
-    /* margin-top: auto;
-    margin-bottom: auto; */
     margin-right: auto;
     margin-left: auto;
     width: 20%;
-    /* background-color: #03045e; */
     padding: 20px;
 }
 
@@ -62,9 +37,11 @@ ul {
 li::marker {
     color: rgb(0,0,0);
 }
+
 a{
     color:whitesmoke;
 }
+
 hr {
     width: 80%;
     max-width: 480px;
