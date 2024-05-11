@@ -39,7 +39,7 @@ h1 {
 #recipes li{
     font-size: 30px;
     color: whitesmoke;
-    margin: 10px;
+    margin: 20px;
 }
 a{
     color:whitesmoke;
@@ -50,6 +50,7 @@ ul {
     margin-bottom: auto;
     margin-right: auto;
     margin-left: 50px;
+    background-color: #03045e;
 }
 
 hr {
