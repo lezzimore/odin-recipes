@@ -1,5 +1,7 @@
 #main {
+    box-sizing: content-box;
     width:50%;
+    border:5px solid;
     background-color: antiquewhite;
     margin-top:40px;
     margin-left:auto;
