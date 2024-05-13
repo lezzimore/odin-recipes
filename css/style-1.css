@@ -4,27 +4,22 @@
     height: 100%;
     border:5px solid;
     background-color: antiquewhite ;
-    margin-top:40px;
-    margin-left:auto;
-    margin-right: auto;
-    padding-top: 40px;
-    padding-bottom: 20px;
+    margin:40px auto 0 auto;
+    padding: 40px 0 20px 0;
     font-family: copperplate, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #header {
     width: 80%;
     max-width: 500px;
-    padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 20px;      
+    margin: 0 auto;
     background-color: aliceblue;
     font-weight: bolder;
 }
 #header img{
     display: block;
     width: 30%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 h1 {
     color: black;
@@ -34,10 +29,7 @@ h1 {
 }
 
 ul {
-    margin-top: 30px;
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: 0;
+    margin: 30px auto 0 auto;
     width: 70%;
     max-width: 70%;
     padding-left: 0;    
@@ -47,12 +39,8 @@ ul {
 li{
     font-size: 30px;
     color: black;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin: 20px auto;
+    padding: 10px 0;
     background-color:aliceblue;
     text-align: center;
 }
