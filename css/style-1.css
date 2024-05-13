@@ -20,7 +20,12 @@
     background-color: aliceblue;
     font-weight: bolder;
 }
-
+#header img{
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
 h1 {
     color: black;
     text-align: center;
